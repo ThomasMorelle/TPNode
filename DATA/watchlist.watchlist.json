@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "65c0ad93297946cbafc7b2d6"
+  },
+  "id": 1,
+  "title": "Films",
+  "userId": 1,
+  "items": [
+    {
+      "registryItemId": 1,
+      "status": [
+        "A voir",
+        "En cours",
+        "Terminé",
+        "Abandonné"
+      ],
+      "note": "incroyable"
+    }
+  ],
+  "estFavori": "boolean"
+}]

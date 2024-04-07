@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "65c0cb1d27c28e20f65a534a"
+  },
+  "id": 1,
+  "title": "Interstellar",
+  "type": "Movie",
+  "director": "Christopher Nolan",
+  "annee_sortie": "2014",
+  "duree": "169",
+  "note": "4.5",
+  "status": [
+    "A voir",
+    "En cours",
+    "Terminé",
+    "Abandonné"
+  ],
+  "addedBy": 1
+}]

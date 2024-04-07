@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "65c0acb9297946cbafc7b2d2"
+  },
+  "id": 1,
+  "username": "Jesus",
+  "email": "morellethomas454@gmail.com",
+  "password": "Janelle26**",
+  "personalInfo": {
+    "Nom": "Morelle",
+    "Prenom": "Thomas",
+    "annee_de_naissance": "04/02/2004 (format: date)"
+  },
+  "watchlists": [
+    "string (watchlistId)"
+  ],
+  "favoriteWatchlists": [
+    "string (watchlistId)"
+  ]
+}]
